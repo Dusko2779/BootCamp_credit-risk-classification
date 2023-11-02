@@ -1,7 +1,7 @@
 # credit-risk-classification
  Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+In this section, describe the analysis you completed for the machine learning models used in this Challenge.
 
 The objective of this analysis is to develop and assess the effectiveness of a data model designed to forecast the creditworthiness of prospective borrowers using peer-to-peer lending. 
 
