@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Module_20_Credit-Risk-Classification
  Overview of the Analysis
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge.
