@@ -1,5 +1,49 @@
 # Module_20_Credit-Risk-Classification
- Overview of the Analysis
+
+### Instructions
+The instructions for this Challenge are divided into the following subsections:
+
+Split the Data into Training and Testing Sets
+
+Create a Logistic Regression Model with the Original Data
+
+Write a Credit Risk Analysis Report
+
+### Split the Data into Training and Testing Sets
+Open the starter code notebook and use it to complete the following steps:
+
+Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
+
+Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns.
+
+![image](https://github.com/Dusko2779/BootCamp_credit-risk-classification/assets/134830906/a8258469-42b6-4e6c-8ac3-30204702115b)
+
+
+Split the data into training and testing datasets by using train_test_split.
+
+![image](https://github.com/Dusko2779/BootCamp_credit-risk-classification/assets/134830906/6fbaf3d5-fa63-4125-8043-f7c305b15d51)
+
+
+### Create a Logistic Regression Model with the Original Data
+Use your knowledge of logistic regression to complete the following steps:
+
+Fit a logistic regression model by using the training data (X_train and y_train).
+
+Save the predictions for the testing data labels by using the testing feature data (X_test) and the fitted model.
+
+![image](https://github.com/Dusko2779/BootCamp_credit-risk-classification/assets/134830906/95a70284-a237-470e-add8-6ca6ab9bbca9)
+
+
+Evaluate the model’s performance by doing the following:
+
+![image](https://github.com/Dusko2779/BootCamp_credit-risk-classification/assets/134830906/40c62543-300d-48ab-a5c0-06dcb0392009)
+
+
+Generate a confusion matrix.
+
+Print the classification report.
+
+### Overview of the Analysis
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge.
 
