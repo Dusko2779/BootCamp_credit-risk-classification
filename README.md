@@ -1,4 +1,4 @@
-# Module_20_Credit-Risk-Classification
+# Module_20_Credit_Risk_Classification
 
 ### Instructions
 The instructions for this Challenge are divided into the following subsections:
